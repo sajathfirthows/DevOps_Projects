@@ -9,3 +9,10 @@ Nginx is a popular open-source web server and reverse proxy used to serve dynami
 Before we start, make sure that you have an EC2 instance set up and you have access to the terminal
 
 ## Step 1: Connect to your EC2 instance
+To connect to your EC2 instance, you will need to use an ssh client such as Putty, MobaXterm. Enter the public DNS of your EC2 instance, which you can find in the AWS Management Console.
+
+![image](https://user-images.githubusercontent.com/106432527/218156640-1aadc6f7-92de-4a3d-81f8-51473095480e.png)
+
+## Step 2: Update the package index
+To ensure that you have the latest version of the software available, run the following command:
+sudo yum update
