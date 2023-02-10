@@ -15,4 +15,5 @@ To connect to your EC2 instance, you will need to use an ssh client such as Putt
 
 ## Step 2: Update the package index
 To ensure that you have the latest version of the software available, run the following command:
-sudo yum update
+
+< sudo yum update >
