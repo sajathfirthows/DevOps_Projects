@@ -1,4 +1,4 @@
-#Setting up Jenkins on Ubuntu AWS EC2
+# Setting up Jenkins on Ubuntu AWS EC2
 
 ![image](https://user-images.githubusercontent.com/106432527/218745541-5015df3d-6554-4d43-b5c0-f03e47d784c6.png)
 
