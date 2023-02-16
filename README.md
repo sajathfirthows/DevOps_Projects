@@ -10,3 +10,7 @@ In this project, we will be installing the Nginx server on an Amazon Linux EC2 i
 
 <a href="https://github.com/sajathfirthows/DevOps_Projects/tree/master/Building%20and%20Storing%20a%20Docker%20Image%20in%20AWS%20EC2%20with%20Terraform%20and%20GitHub:%20A%20Step-by-Step%20Guide">Project-3 : Building and Storing a Docker Image in AWS EC2 with Terraform and GitHub</a><br>
 In this project, I have showed you how to install an EC2 Amazon Linux Free Tier instance using Terraform, how to install Docker, and how to create a sample Docker file and also demonstrated how to store the code on GitHub for version control and collaboration. This project provides a basic introduction to using Terraform and Docker, and you can use this knowledge to build more complex applications on the Amazon EC2 platform.
+
+
+<a href="https://github.com/sajathfirthows/DevOps_Projects/tree/master/Hosting%20a%20Static%20Website%20on%20AWS%20Free%C2%A0Tier">Project-4 : Hosting a Static Website on AWS Free Tier</a><br>
+In this project we are hosting a static website on AWS is a straightforward process that can be done using the free tier account. With this project, we have covered the necessary steps to host a static website on AWS, including creating an S3 bucket, uploading website content, making the website publicly accessible, configuring website hosting, testing the website and adding the website source code to GitHub. By following this tutorial, even beginners can learn how to host their website on AWS and make it accessible to the public. 
