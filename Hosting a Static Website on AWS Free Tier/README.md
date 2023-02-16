@@ -96,7 +96,7 @@ Replace “your-username” and “your-repo-name” with your GitHub username a
 
 Congratulations, you have successfully hosted a static website on AWS using the free tier account. Your website is now publicly accessible through the S3 bucket URL or your custom domain name. You can continue to modify and update your website content as needed, and push changes to your GitHub repository to keep a backup of your code.
 
-hosting a static website on AWS is a straightforward process that can be done using the free tier account. With this project, we have covered the necessary steps to host a static website on AWS, including creating an S3 bucket, uploading website content, making the website publicly accessible, configuring website hosting, testing the website, and adding the website source code to GitHub. By following this tutorial, even beginners can learn how to host their website on AWS and make it accessible to the public. 
+hosting a static website on AWS is a straightforward process that can be done using the free tier account. With this project, we have covered the necessary steps to host a static website on AWS, including creating an S3 bucket, uploading website content, making the website publicly accessible, configuring website hosting, testing the website and adding the website source code to GitHub. By following this tutorial, even beginners can learn how to host their website on AWS and make it accessible to the public. AWS is a powerful platform that offers a wide range of services for hosting and managing websites, and this project is an excellent starting point for anyone who wants to learn how to use it. 
 
 
 
