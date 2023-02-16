@@ -1,4 +1,4 @@
-# “Building and Storing a Docker Image in AWS EC2 with Terraform and GitHub: A Step-by-Step Guide”
+# Building and Storing a Docker Image in AWS EC2 with Terraform and GitHub
 
 ![image](https://user-images.githubusercontent.com/106432527/218282592-64441711-e149-4df6-9da6-5fba676e8f8e.png)
 
