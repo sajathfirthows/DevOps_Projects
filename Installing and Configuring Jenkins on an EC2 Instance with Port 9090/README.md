@@ -171,7 +171,7 @@ Jenkins Instance access URL will be printed on the screen that follows. This can
 
 
 
-Jenkins is a powerful automation server that can help you streamline your software development process. In this guide, we have walked through the steps to install Jenkins on an EC2 instance with port 9090 and access it via a web browser. We have also explained how to add your project files to a GitHub repository. By following these steps, you can take advantage of the many features and benefits of Jenkins to improve your software development process.
+Jenkins is a powerful automation server that can help you streamline your software development process. In this guide, we have walked through the steps to install Jenkins on an EC2 instance with port 9090 and access it via a web browser. By following these steps, you can take advantage of the many features and benefits of Jenkins to improve your software development process.
 
 
 
