@@ -14,3 +14,10 @@ In this project, I have showed you how to install an EC2 Amazon Linux Free Tier 
 
 <a href="https://github.com/sajathfirthows/DevOps_Projects/tree/master/Hosting%20a%20Static%20Website%20on%20AWS%20Free%C2%A0Tier">Project-4 : Hosting a Static Website on AWS Free Tier</a><br>
 In this project we are hosting a static website on AWS is a straightforward process that can be done using the free tier account. With this project, we have covered the necessary steps to host a static website on AWS, including creating an S3 bucket, uploading website content, making the website publicly accessible, configuring website hosting, testing the website and adding the website source code to GitHub. By following this tutorial, even beginners can learn how to host their website on AWS and make it accessible to the public. 
+
+
+<a href="https://github.com/sajathfirthows/DevOps_Projects/tree/master/Installing%20and%20Configuring%20Jenkins%20on%20an%20EC2%20Instance%20with%20Port%209090">Project-5 : Installing and Configuring Jenkins on an EC2 Instance with Port 9090</a><br>
+In this project I have showed to install Jenkins on an EC2 instance with port 9090 and access it via a web browser. Reason to install Jenkins on port 9090, it is simply a commonly used port for Jenkins installations. By default, Jenkins is configured to run on port 8080, but this can be changed in the Jenkins configuration settings. Port 9090 is sometimes used as an alternative port to avoid conflicts with other applications that may be using port 8080. By following these steps, you can take advantage of the many features and benefits of Jenkins to improve your software development process.
+
+
+
